@@ -125,7 +125,7 @@ module.exports = conn = async (conn, m, chatUpdate, store) => {
                     thumbnail: thumb,
                     surface: 200,
                     message: `${namaowner}`,
-                    orderTitle: 'AdrianTzy',
+                    orderTitle: 'LufzyyTzy',
                     sellerJid: '0@s.whatsapp.net'
                 }
             },
