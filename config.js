@@ -11,13 +11,13 @@ global.apikey = 'APOLOZEA' // https://api.lolhuman.xyz
 global.rosekey = 'cba86fac49e37d63f9bd4561' // https://api.itsrose.site
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Adrian-MD'
-global.namaowner = 'AdrianTzy'
+global.namabot = 'Lufzyy-MD'
+global.namaowner = 'LufzyTzy'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6289513081052'
-global.nomerowner = ["6289513081052"]
-global.premium = ['6289513081052']
+global.owner = '6285867503793'
+global.nomerowner = ["6285867503793"]
+global.premium = ['6285867503793']
 
 //—————「 Set Wm 」—————//
 global.packname = 'Adrian-MD'
